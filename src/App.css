@@ -1,22 +1,66 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+
+.App{
+  position: relative;
+}
+.appBack{
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 0;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.appContainer{
+  justify-self: center;
+  justify-items: center;
+  position: absolute;
+  width: 100%;
+  margin-top: 120px;
+}
+
+.appContainer .appIcon{
+  margin: auto;
+  display: block;
+  height: 90px;
+  width: 90px;
+}
+.appTitle{
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  color: #ffffff;
+  margin-top: 15px;
+}
+.appText{
+  font-size: 11px;
+  color: #ffffff;
+  width: 184px;
+  margin: auto;
+  margin-top: 55px;
+}
+.appText span{
+  font-size: 15px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.appButton{
+  width:249px;
+  height:41px;
+  border:2px solid rgba(255,255,255,1);
+  border-radius:5px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 41px;
+  margin: auto;
+  margin-top: 30px;
+}
+.appIos{
+  background-color: #ffffff;
+  color: #458FFF;
 }
