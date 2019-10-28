@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xys19_web/static/css/main.91c5182c.chunk.css",
+    "main.js": "/xys19_web/static/js/main.493caec9.chunk.js",
+    "main.js.map": "/xys19_web/static/js/main.493caec9.chunk.js.map",
+    "runtime-main.js": "/xys19_web/static/js/runtime-main.d59e43d1.js",
+    "runtime-main.js.map": "/xys19_web/static/js/runtime-main.d59e43d1.js.map",
+    "static/js/2.d90128db.chunk.js": "/xys19_web/static/js/2.d90128db.chunk.js",
+    "static/js/2.d90128db.chunk.js.map": "/xys19_web/static/js/2.d90128db.chunk.js.map",
+    "index.html": "/xys19_web/index.html",
+    "precache-manifest.d42e82907d01c3ce092c40873f848266.js": "/xys19_web/precache-manifest.d42e82907d01c3ce092c40873f848266.js",
+    "service-worker.js": "/xys19_web/service-worker.js",
+    "static/css/main.91c5182c.chunk.css.map": "/xys19_web/static/css/main.91c5182c.chunk.css.map",
+    "static/media/back.png": "/xys19_web/static/media/back.47cd5699.png",
+    "static/media/icon.png": "/xys19_web/static/media/icon.5f82827a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d59e43d1.js",
+    "static/js/2.d90128db.chunk.js",
+    "static/css/main.91c5182c.chunk.css",
+    "static/js/main.493caec9.chunk.js"
+  ]
+}
