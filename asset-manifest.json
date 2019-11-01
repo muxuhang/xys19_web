@@ -1,25 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.f8003a63.chunk.css",
-    "main.js": "/static/js/main.cd50f4d5.chunk.js",
-    "main.js.map": "/static/js/main.cd50f4d5.chunk.js.map",
+    "main.js": "/static/js/main.a29337bf.chunk.js",
+    "main.js.map": "/static/js/main.a29337bf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.56a436ab.js",
     "runtime-main.js.map": "/static/js/runtime-main.56a436ab.js.map",
     "static/js/2.d90128db.chunk.js": "/static/js/2.d90128db.chunk.js",
     "static/js/2.d90128db.chunk.js.map": "/static/js/2.d90128db.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3c08e46c2e409e6097fd8a3522fd27f8.js": "/precache-manifest.3c08e46c2e409e6097fd8a3522fd27f8.js",
+    "precache-manifest.ffe6a1866e12789f29f7dbefbc9ac369.js": "/precache-manifest.ffe6a1866e12789f29f7dbefbc9ac369.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.f8003a63.chunk.css.map": "/static/css/main.f8003a63.chunk.css.map",
     "static/media/back.png": "/static/media/back.47cd5699.png",
     "static/media/icon.png": "/static/media/icon.5f82827a.png",
-    "static/media/xys19.ipa": "/static/media/xys19.2264dcc5.ipa",
     "static/media/xys19_v0.3.5.apk": "/static/media/xys19_v0.3.5.96999011.apk"
   },
   "entrypoints": [
     "static/js/runtime-main.56a436ab.js",
     "static/js/2.d90128db.chunk.js",
     "static/css/main.f8003a63.chunk.css",
-    "static/js/main.cd50f4d5.chunk.js"
+    "static/js/main.a29337bf.chunk.js"
   ]
 }
