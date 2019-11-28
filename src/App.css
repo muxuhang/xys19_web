@@ -50,6 +50,7 @@
 }
 
 .appButton{
+  display: block;
   width:249px;
   height:41px;
   border:2px solid rgba(255,255,255,1);
@@ -59,8 +60,19 @@
   line-height: 41px;
   margin: auto;
   margin-top: 30px;
+  text-decoration: none;
 }
 .appIos{
   background-color: #ffffff;
   color: #458FFF;
+}
+
+.appTip{
+  color: #ffffff;
+  text-align: center;
+  width: 249px;
+  margin: auto;
+  display: block;
+  margin-top: 10px;
+  font-size: 13px;
 }
